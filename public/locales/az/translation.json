@@ -1,0 +1,109 @@
+{
+    "search": {
+        "1": "Axtar"
+    },
+    "navbar": {
+        "1": "Gəlirlər",
+        "2": "E-qaimə",
+        "3": "Vergi hesabatları",
+        "4": "Məlumat",
+        "5": "Çıxış",
+        "6": "Bildirişlər",
+        "7": "Dashboard"
+    },
+    "person": {
+        "1": "Şəxsi məlumatlarım"
+    },
+    "bank": {
+        "1": "Bank hesablarım",
+        "2": "Yeni hesab əlavə et"
+    },
+    "receipt": {
+        "1": "Göndərilən qaimələr",
+        "2": "Gələn qaimələr",
+        "3": "Təsdiqlənib",
+        "4": "Təsdiqlənməyib",
+        "5": "Yeni qaimə göndər"
+    },
+    "taxe": {
+        "1": "Yeni hesabat",
+        "2": "Cari gəlir vergisi",
+        "3": "Gəlir vergisi bəyannaməsi",
+        "4": "Vahid bəyannamə",
+        "5": "Hamısı"
+    },
+    "info": {
+        "1": "Vergilər Nazirliyinə e-poçt yaz",
+        "2": "* Qeyd: Şəxsi kabinetinizdə profil şəklinizdən başqa heçbir məlumatı dəyişdirə bilməzsiniz."
+    },
+    "dropdown": {
+        "1": "Rüblük",
+        "2": "İllik",
+        "3": "Aylıq",
+        "4": "Göndərilən",
+        "5": "Gələnlər"
+    },
+    "buttons": {
+        "1": "Yenisini əlavə et",
+        "2": "Yenisini yarat",
+        "3": "Əlavə et",
+        "4": "Ləğv et",
+        "5": "Göndər",
+        "6": "Yadda saxla",
+        "7": "Profili sil"
+    },
+    "inputs": {
+        "1": "Mobil nömrə",
+        "2": "İstifadəçi ID-si",
+        "3": "FIN",
+        "4": "Fəaliyyət növü",
+        "5": "Bankı seç",
+        "6": "Kartın növü",
+        "7": "Kartın nömrəsi",
+        "8": "Bitmə tarixi",
+        "9": "CVC/VV",
+        "10": "Qaimənin növü",
+        "11": "VÖEN",
+        "12": "VÖEN-siz",
+        "13": "VÖEN ilə",
+        "14": "VÖEN sahibi",
+        "15": "Period",
+        "16": "Məbləğ",
+        "17": "İl",
+        "18": "Rüb",
+        "19": "Dövr üzrlə gəlirlər",
+        "20": "Vergi məbləği",
+        "21": "Gəlirlər",
+        "22": "Fəaliyyət",
+        "23": "Failiyyət olmayıb",
+        "24": "Failiyyət olub",
+        "25": "Fəaliyyət sahəsi",
+        "26": "Hesabat növü"
+    },
+    "auth": {
+        "1": "XOŞ GƏLMİSİNİZ!",
+        "2": "Daxil ol",
+        "3": "Qeydiyyatdan keç",
+        "4": "Tez-tez verilən sullar və köməkçi məlumatlar",
+        "5": "Qeydiyyat",
+        "6": "İrəli",
+        "7": "Şəkil yüklə",
+        "8": "Bank",
+        "9": "Qeydiyyatı tamamla",
+        "10": "ASAN imza ilə daxil ol"
+    },
+    "month": {
+        "1": "Yanvar",
+        "2": "Fevral",
+        "3": "Mart",
+        "4": "Aprel",
+        "5": "May",
+        "6": "İyun",
+        "7": "İyul",
+        "8": "Avqust",
+        "9": "Sentyabr",
+        "10": "Oktyabr",
+        "11": "Noyabr",
+        "12": "Dekabr"
+    }
+}

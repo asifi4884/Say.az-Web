@@ -1,0 +1,109 @@
+{
+    "search": {
+        "1": "Search"
+    },
+    "navbar": {
+        "1": "Incomes",
+        "2": "E-receipt",
+        "3": "Tax reports",
+        "4": "Information",
+        "5": "Logout",
+        "6": "Notifications",
+        "7": "Dashboard"
+    },
+    "person": {
+        "1": "Personal informations"
+    },
+    "bank": {
+        "1": "My bank accounts",
+        "2": "Add a new account"
+    },
+    "receipt": {
+        "1": "Sent receipts",
+        "2": "Incoming receipts",
+        "3": "Approved",
+        "4": "Not confirmed",
+        "5": "Send a new invoice"
+    },
+    "taxe": {
+        "1": "New report",
+        "2": "Current income tax",
+        "3": "Income tax return",
+        "4": "Single declaration",
+        "5": "All"
+    },
+    "info": {
+        "1": "Write to the Ministry of Taxes",
+        "2": "* Note: You cannot change any information in your personal cabinet other than your profile picture."
+    },
+    "dropdown": {
+        "1": "Quarterly",
+        "2": "Yearly",
+        "3": "Monthly",
+        "4": "Sent",
+        "5": "Incoming"
+    },
+    "buttons": {
+        "1": "Add a new one",
+        "2": "Create a new one",
+        "3": "Add",
+        "4": "Cancel",
+        "5": "Send",
+        "6": "Save",
+        "7": "Remove profile"
+    },
+    "inputs": {
+        "1": "Phone number",
+        "2": "User ID",
+        "3": "FIN",
+        "4": "Type of activitie",
+        "5": "Choose a bank",
+        "6": "Card type",
+        "7": "Card number",
+        "8": "Expiration date",
+        "9": "CVC/VV",
+        "10": "Type of receipt",
+        "11": "TIN",
+        "12": "TIN-free",
+        "13": "With TIN",
+        "14": "TIN owner",
+        "15": "Period",
+        "16": "Amount",
+        "17": "Year",
+        "18": "Quarter",
+        "19": "Period incomes",
+        "20": "The amount of tax",
+        "21": "Incomes",
+        "22": "Action",
+        "23": "There was no activity",
+        "24": "There was activity",
+        "25": "Area of activity",
+        "26": "Report type"
+    },
+    "auth": {
+        "1": "WELCOME TO!",
+        "2": "Login",
+        "3": "Register",
+        "4": "Frequently asked questions and helpful information",
+        "5": "Registration",
+        "6": "Next",
+        "7": "Upload a photo",
+        "8": "Bank",
+        "9": "Complete the registration",
+        "10": "Sign in with an ASAN signature"
+    },
+    "month": {
+        "1": "January",
+        "2": "February",
+        "3": "March",
+        "4": "April",
+        "5": "May",
+        "6": "June",
+        "7": "July",
+        "8": "August",
+        "9": "September",
+        "10": "October",
+        "11": "November",
+        "12": "December"
+    }
+}
